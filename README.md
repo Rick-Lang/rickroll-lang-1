@@ -154,7 +154,7 @@ Join this server to chat with cool people or for support
 Wechat/微信: githubsherlockcxk
 <br>
 Discord: Satin Wuker#0572
-<br/> Valcan#1407
+<br/> Microsoft Enjoyer#1407
 
 # Purpose
 Despite the fact that the Rickroll Language is considered an esoteric programming language, it has its unignorable significance. I believe that rick roll is not only a way to promote people’s communication, it is also one of the most paramount art in the human history. The purpose of the Rickroll Language is to introduce this art to people in a distinctive way – programming.
